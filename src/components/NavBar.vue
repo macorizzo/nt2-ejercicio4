@@ -2,7 +2,7 @@
 
   <section class="src-components-nav-bar">
 
-      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <!-- <div class="container-fluid"> -->
       <router-link to="/form">
         <a class="navbar-brand" href="#">Inicio</a>
